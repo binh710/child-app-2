@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row justify-content-center align-item-center text-center">
       <div class="col-12 col-md-10 col-lg-8">
-        <h3>Child app 3</h3>
+        <h3>Child app 2</h3>
         <p>This child application aims to show you how user authentication can be done</p>
         <br/>
         <br/>
