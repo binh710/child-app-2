@@ -1,4 +1,4 @@
-# child-app-3
+# child-app-2
 
 ## Project setup
 ```
